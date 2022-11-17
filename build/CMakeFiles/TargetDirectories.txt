@@ -1,4 +1,0 @@
-/data/code/cpp/test/malloc_test/hook7/mem_hook/build/CMakeFiles/rebuild_cache.dir
-/data/code/cpp/test/malloc_test/hook7/mem_hook/build/CMakeFiles/mem_hook.dir
-/data/code/cpp/test/malloc_test/hook7/mem_hook/build/CMakeFiles/edit_cache.dir
-/data/code/cpp/test/malloc_test/hook7/mem_hook/build/CMakeFiles/default_mem_hook.dir
